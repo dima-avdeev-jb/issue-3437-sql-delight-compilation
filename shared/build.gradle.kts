@@ -1,7 +1,7 @@
 plugins {
     kotlin("multiplatform")
     id("org.jetbrains.compose")
-    id("app.cash.sqldelight") version "2.0.0"
+//    id("app.cash.sqldelight") version "2.0.0"
 }
 
 kotlin {

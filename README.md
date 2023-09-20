@@ -1,1 +1,4 @@
-Trying to reproduce Issue https://github.com/JetBrains/compose-multiplatform/issues/3437
+Reproduce Issue https://github.com/JetBrains/compose-multiplatform/issues/3437
+
+To reproduce: `./gradlew :shared:compileIosMainKotlinMetadata`
+
